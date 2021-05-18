@@ -1,0 +1,60 @@
+30 - initiated
+EdmdG1   + Trajectory computed succesfully!
+      * Initiated calculateTrajectory succesfully!
+         # LegNumber: 0 initiated succesfully!
+                                      !! Propagation initiated!
+                                      !! final state completed!
+                                      !! eccentricity elliptical!
+                                      !! eccentricity elliptical 1
+                                      !! eccentricity elliptical 2
+                                      !! eccentricity elliptical 3
+                                      !! eccentricity elliptical 4
+                                      !! eccentricity elliptical 5
+            - calulateLeg succesfull!
+         # LegNumber: 1 initiated succesfully!
+                               == calculateLeg initiated!
+                               == velocityAfterDeparture_ completed!
+                               == Conversion1 completed!
+                                      !! Propagation initiated!
+                                      !! final state completed!
+                                      !! eccentricity elliptical!
+                                      !! eccentricity elliptical 1
+                                      !! eccentricity elliptical 2
+                                      !! eccentricity elliptical 3
+                                      !! eccentricity elliptical 4
+                                      !! eccentricity elliptical 5
+                               == Propagation completed!
+                               == Conversion2 completed!
+                               == solveLambertProblemIzzo completed!
+                               == calculateLeg completed!
+            - calulateLeg succesfull!
+         # LegNumber: 2 initiated succesfully!
+            - calulateLeg succesfull!
+      * Computed calculateTrajectory succesfully!
+EdmdG1   + DeltaV computed succesfully!
+EdmdG1   + Fitness computed succesfully!
+EdmdG1   + Trajectory computed succesfully!
+      * Initiated calculateTrajectory succesfully!
+         # LegNumber: 0 initiated succesfully!
+                                      !! Propagation initiated!
+                                      !! final state completed!
+                                      !! eccentricity elliptical!
+                                      !! eccentricity elliptical 1
+                                      !! eccentricity elliptical 2
+                                      !! eccentricity elliptical 3
+                                      !! eccentricity elliptical 4
+                                      !! eccentricity elliptical 5
+            - calulateLeg succesfull!
+         # LegNumber: 1 initiated succesfully!
+                               == calculateLeg initiated!
+                               == velocityAfterDeparture_ completed!
+                               == Conversion1 completed!
+                                      !! Propagation initiated!
+                                      !! final state completed!
+                                      !! eccentricity hyperbolic
+------------------------------------------------------------- Initiation
+------------------------------------------------------------- hyperbolicSineOfHyperbolicEccentricAnomaly_
+------------------------------------------------------------- hyperboliccosineOfHyperbolicEccentricAnomaly_
+------------------------------------------------------------- hyperbolicSineOfHyperbolicEccentricAnomaly_:  2.00005
+------------------------------------------------------------- hyperboliccosineOfHyperbolicEccentricAnomaly_:  2.00005
+------------------------------------------------------------- atanh:  Press <RETURN> to close this window...
